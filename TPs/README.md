@@ -3,7 +3,7 @@
 
 Voici les différents travaux pratiques disponibles dans le dossier `tp` :
 
-## 🔹 TP 1 : Apprendre les fonctions de base
+## 🔹 TP 1 : Débuter avec Python
 
 ## 🔹 TP 2 : Manipuler les listes
 
