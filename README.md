@@ -7,6 +7,9 @@ Que tu sois débutant ou déjà à l'aise avec le langage, ce repo est fait pour
 - **Cours** : Des explications claires et accessibles pour bien comprendre Python.
 - **TP** : Des exercices pratiques pour t'entraîner et progresser.
 - **À venir** : De nouveaux TP bientôt disponibles ! 🎉
+- 
+## ✅ Pré-requis
+Pour suivre ce repo, tu as juste besoin d'un **environnement pour exécuter Python**. C'est tout ! 🚀
 
 ## 🤝 Contribution
 Tout le monde peut contribuer !
