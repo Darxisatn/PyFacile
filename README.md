@@ -18,10 +18,10 @@ Tout le monde peut contribuer !
 
 ## 🆘 Besoin d'aide ?
 Rejoins-nous sur **Discord** pour poser tes questions et discuter avec la communauté ! 💬
-(pas encore dispo, arrive bientot)
+- (pas encore dispo, arrive bientot)
 
 ## 🎥 Ma chaîne YouTube
 Retrouve aussi des **tutos Python en vidéo** sur ma chaîne YouTube ! 📺
-(pas encore dispo, arrive bientot)
+- (pas encore dispo, arrive bientot)
 
 🔥 Amuse-toi bien en apprenant Python et bon code ! 🔥
