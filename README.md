@@ -18,7 +18,7 @@ Tout le monde peut contribuer !
 
 ## 🆘 Besoin d'aide ?
 Rejoins-nous sur **Discord** pour poser tes questions et discuter avec la communauté ! 💬
-- (pas encore dispo, arrive bientot)
+- https://discord.gg/E7ebnGGUXB : (Pas encore design si y'en a qui sont chaud de m'aider)
 
 ## 🎥 Ma chaîne YouTube
 Retrouve aussi des **tutos Python en vidéo** sur ma chaîne YouTube ! 📺
